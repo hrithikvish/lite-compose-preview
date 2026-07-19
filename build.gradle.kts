@@ -30,6 +30,8 @@ dependencies {
 }
 
 intellijPlatform {
+    instrumentCode = false
+
     pluginConfiguration {
         ideaVersion {
             sinceBuild = "252.25557"
