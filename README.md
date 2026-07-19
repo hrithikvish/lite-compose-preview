@@ -47,4 +47,8 @@ The installable plugin ZIP is written to `build/distributions/`.
 
 Launches a sandboxed IDE instance with the plugin installed, for manual testing.
 
+## License
+
+[Apache License 2.0](./LICENSE)
+
 [android-cli]: https://developer.android.com/tools/agents
