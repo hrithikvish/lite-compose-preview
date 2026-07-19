@@ -20,7 +20,7 @@
         image of your UI without loading Studio's own preview engine.<br><br>
         Click the gutter run icon next to any <code>@Preview</code> function to render it and view the
         result in a tool window.<br><br>
-        <b>Trade-off:</b> no interactive previews or instant live updates &mdash; just a quick way to see
+        <b>Trade-off:</b> no interactive previews or instant live updates; just a quick way to see
         your UI when you don't want the IDE to slow down.
     ]]></description>
 
